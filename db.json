@@ -1,0 +1,284 @@
+{
+  "drivers": [
+    {
+      "id": "1",
+      "name": "Max Verstappen",
+      "team_id": 1,
+      "nationality": "Dutch",
+      "age": 26,
+      "points": 400
+    },
+    {
+      "id": "2",
+      "name": "Sergio Pérez",
+      "team_id": 1,
+      "nationality": "Mexican",
+      "age": 35,
+      "points": 280
+    },
+    {
+      "additionalProp1": {},
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Carlos Sainz",
+      "team_id": 2,
+      "nationality": "Spanish",
+      "age": 30,
+      "points": 240
+    },
+    {
+      "id": "5",
+      "name": "Lando Norris",
+      "team_id": 3,
+      "nationality": "British",
+      "age": 25,
+      "points": 320
+    },
+    {
+      "id": "6",
+      "name": "Oscar Piastri",
+      "team_id": 3,
+      "nationality": "Australian",
+      "age": 24,
+      "points": 215
+    },
+    {
+      "id": "7",
+      "name": "George Russell",
+      "team_id": 4,
+      "nationality": "British",
+      "age": 27,
+      "points": 190
+    },
+    {
+      "id": "8",
+      "name": "Lewis Hamilton",
+      "team_id": 4,
+      "nationality": "British",
+      "age": 40,
+      "points": 210
+    },
+    {
+      "id": "9",
+      "name": "Fernando Alonso",
+      "team_id": 5,
+      "nationality": "Spanish",
+      "age": 44,
+      "points": 175
+    },
+    {
+      "id": "10",
+      "name": "Lance Stroll",
+      "team_id": 5,
+      "nationality": "Canadian",
+      "age": 27,
+      "points": 95
+    },
+    {
+      "id": "11",
+      "name": "Esteban Ocon",
+      "team_id": 6,
+      "nationality": "French",
+      "age": 29,
+      "points": 85
+    },
+    {
+      "id": "12",
+      "name": "Pierre Gasly",
+      "team_id": 6,
+      "nationality": "French",
+      "age": 29,
+      "points": 100
+    },
+    {
+      "id": "13",
+      "name": "Yuki Tsunoda",
+      "team_id": 7,
+      "nationality": "Japanese",
+      "age": 25,
+      "points": 80
+    },
+    {
+      "id": "14",
+      "name": "Daniel Ricciardo",
+      "team_id": 7,
+      "nationality": "Australian",
+      "age": 36,
+      "points": 70
+    },
+    {
+      "id": "15",
+      "name": "Valtteri Bottas",
+      "team_id": 8,
+      "nationality": "Finnish",
+      "age": 36,
+      "points": 60
+    },
+    {
+      "id": "16",
+      "name": "Zhou Guanyu",
+      "team_id": 8,
+      "nationality": "Chinese",
+      "age": 26,
+      "points": 50
+    },
+    {
+      "id": "17",
+      "name": "Alexander Albon",
+      "team_id": 9,
+      "nationality": "Thai",
+      "age": 29,
+      "points": 45
+    },
+    {
+      "id": "18",
+      "name": "Logan Sargeant",
+      "team_id": 9,
+      "nationality": "American",
+      "age": 24,
+      "points": 30
+    },
+    {
+      "id": "19",
+      "name": "Nico Hülkenberg",
+      "team_id": 10,
+      "nationality": "German",
+      "age": 38,
+      "points": 55
+    },
+    {
+      "id": "20",
+      "name": "Kevin Magnussen",
+      "team_id": 10,
+      "nationality": "Danish",
+      "age": 33,
+      "points": 40
+    }
+  ],
+  "teams": [
+    {
+      "id": "1",
+      "name": "Red Bull Racing",
+      "base_country": "Austria",
+      "trophies": 13
+    },
+    {
+      "id": "2",
+      "name": "Ferrari",
+      "base_country": "Italy",
+      "trophies": 16
+    },
+    {
+      "id": "3",
+      "name": "McLaren",
+      "base_country": "United Kingdom",
+      "trophies": 8
+    },
+    {
+      "id": "4",
+      "name": "Mercedes",
+      "base_country": "Germany",
+      "trophies": 8
+    },
+    {
+      "id": "5",
+      "name": "Aston Martin",
+      "base_country": "United Kingdom",
+      "trophies": 1
+    },
+    {
+      "id": "6",
+      "name": "Alpine",
+      "base_country": "France",
+      "trophies": 2
+    },
+    {
+      "id": "7",
+      "name": "RB (Visa Cash App RB)",
+      "base_country": "Italy",
+      "trophies": 0
+    },
+    {
+      "id": "8",
+      "name": "Sauber (Stake F1 Team)",
+      "base_country": "Switzerland",
+      "trophies": 1
+    },
+    {
+      "id": "9",
+      "name": "Williams",
+      "base_country": "United Kingdom",
+      "trophies": 9
+    },
+    {
+      "id": "10",
+      "name": "Haas",
+      "base_country": "United States",
+      "trophies": 0
+    }
+  ],
+  "races": [
+    {
+      "id": "1",
+      "name": "Bahrain Grand Prix",
+      "location": "Sakhir, Bahrain",
+      "winner_id": 1
+    },
+    {
+      "id": "2",
+      "name": "Saudi Arabian Grand Prix",
+      "location": "Jeddah, Saudi Arabia",
+      "winner_id": 1
+    },
+    {
+      "id": "3",
+      "name": "Australian Grand Prix",
+      "location": "Melbourne, Australia",
+      "winner_id": 6
+    },
+    {
+      "id": "4",
+      "name": "Japanese Grand Prix",
+      "location": "Suzuka, Japan",
+      "winner_id": 1
+    },
+    {
+      "id": "5",
+      "name": "Miami Grand Prix",
+      "location": "Miami, USA",
+      "winner_id": 5
+    },
+    {
+      "id": "6",
+      "name": "Monaco Grand Prix",
+      "location": "Monte Carlo, Monaco",
+      "winner_id": 3
+    },
+    {
+      "id": "7",
+      "name": "Spanish Grand Prix",
+      "location": "Barcelona, Spain",
+      "winner_id": 4
+    },
+    {
+      "id": "8",
+      "name": "British Grand Prix",
+      "location": "Silverstone, UK",
+      "winner_id": 5
+    },
+    {
+      "id": "9",
+      "name": "Italian Grand Prix",
+      "location": "Monza, Italy",
+      "winner_id": 3
+    },
+    {
+      "id": "10",
+      "name": "Abu Dhabi Grand Prix",
+      "location": "Yas Marina, UAE",
+      "winner_id": 1
+    }
+  ]
+}
